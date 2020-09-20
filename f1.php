@@ -1,3 +1,3 @@
 <?php
-    echo 'Second Edited First Feature';
+    echo 'Edit on another branch - Second Edited First Feature';
 ?>
