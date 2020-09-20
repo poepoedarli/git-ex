@@ -1,3 +1,3 @@
 <?php
-    echo 'First Feature';
+    echo 'Edited First Feature';
 ?>
